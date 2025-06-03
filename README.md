@@ -2,3 +2,7 @@
 
 The dataset contains seasonally adjusted Zillow Home Value Index data of all homes in metropolitan areas & the US as a whole. 
 With this data, the project analyzed the adjusted home values, as defined by Zillow, across metropolitan areas in the US. House values were examined over time to evaluate how housing prices changed across various certain areas.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Machine learning was not applied in this project.
