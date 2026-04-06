@@ -8,3 +8,4 @@ With this data, the project analyzed the adjusted home values, as defined by Zil
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Machine learning was not applied in this project.
+- For some reason, the .ipynb file only contains the first 1/4 of the project. I've tried rerunning, re-downloading, & reuploading the file, but it doesn't work. Fortunately, the .html file contains the whole project, so reference that instead.
